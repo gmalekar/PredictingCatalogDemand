@@ -14,4 +14,7 @@ You’ve been asked to predict the expected profit from these 250 new customers.
 The costs of printing and distributing is $6.50 per catalog.
 The average gross margin (price - cost) on all products sold through the catalog is 50%.
 
-We will follow a CRISP-DM problem solving framwork to tackle this business issue.
+### We will follow a CRISP-DM problem solving framwork to tackle this business issue.
+
+please refer to this link for the solution
+https://github.com/gmalekar/PredictingCatalogDemand/blob/master/Predicting%20Catalog%20Demand.pdf
